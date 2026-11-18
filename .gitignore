@@ -1,0 +1,6 @@
+# Игнорируем всё, кроме файлов репозитория
+/*
+!/.gitignore
+!/README.md
+!/install.ini
+!/installer.php
